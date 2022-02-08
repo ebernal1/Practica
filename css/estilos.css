@@ -11,5 +11,13 @@ body{
 
 #conteiner h1{
     text-align: center;
-    color: crimson;
+    color: red;
+}
+
+#cabecera{
+    background-color: blue;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 90 px;
+    
 }
