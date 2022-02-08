@@ -13,3 +13,11 @@ body{
     text-align: center;
     color: blue;
 }
+
+#cabecera{
+    background-color: blue;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 90 px;
+    
+}
